@@ -1,0 +1,43 @@
+User Interface(UI)/Graphical User interface(GUI) testing automation tool -> Selenium.
+
+User Interface - means everything we see on our screen.
+
+Web Applications-web sites.
+Front end - user interface.
+Selenium
+
+
+Websites/Web applications are nuild/developed using:
+-HTML
+-CSS
+-JavaScrip
+
+HTML-HyperText Marup language-> a sceleton of web application.
+CSS-Cascading Style Sheets-musles on sceleton(style,coloring,fonts)
+JavaScript-action,logic-joint
+
+<>      -> diamond
+<>      -> tag in HTML
+<tag>   -> opening tag
+</tag>  -> closing tag
+<tagName>
+
+
+<html> -> every html document will start with html tag
+</html> -> every html document must have closing tag as tthe last tag.
+<head>
+<title>
+<body>
+<script>
+<img>
+<a>
+<p>
+<b>
+<header>
+<footer>
+<span>
+<ol>
+<li>
+<noscript>
+<table>
+<style>
